@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sociel-/static/css/main.9c1adbdb.css",
+    "main.js": "/sociel-/static/js/main.8efd3131.js",
+    "index.html": "/sociel-/index.html",
+    "main.9c1adbdb.css.map": "/sociel-/static/css/main.9c1adbdb.css.map",
+    "main.8efd3131.js.map": "/sociel-/static/js/main.8efd3131.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c1adbdb.css",
+    "static/js/main.8efd3131.js"
+  ]
+}
